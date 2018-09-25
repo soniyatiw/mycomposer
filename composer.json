@@ -1,0 +1,22 @@
+{
+  "name": "soniya/module-mycomposer",
+  "description": "A custom module installation via composer.",
+  "authors": [
+        {
+            "name": "Soniya Tiwari",
+            "email": "soniya.t@echidnainc.com"
+        }
+  ],
+  "require": {
+    "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
+    "magento/module-ui": "101.0.*",
+    "magento/framework": "101.0.*"
+  },
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}

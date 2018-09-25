@@ -1,5 +1,5 @@
 {
-  "name": "soniyatiw/mycomposer",
+  "name": "soniyatiw/hellocomposer",
   "description": "A custom module installation via composer.",
   "authors": [
         {
@@ -27,7 +27,7 @@
         "map": [
             [
                 "*",
-                "Soniyatiw/Mycomposer/"
+                "Soniyatiw/Hellocomposer/"
             ]
         ]
     },

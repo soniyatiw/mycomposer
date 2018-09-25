@@ -19,4 +19,14 @@
       "registration.php"
     ]
   }
+  "repositories": [
+        {
+        "type": "composer",
+        "url": "https://repo.magento.com/"
+     },
+     {
+        "type": "git",
+        "url": "https://github.com/soniyatiw/mycomposer.git"
+    }
+],
 }
